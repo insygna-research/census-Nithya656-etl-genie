@@ -1,0 +1,10 @@
+langchain
+langchain-ollama
+langgraph
+pandas
+duckdb
+pydantic
+pyarrow
+python-dotenv
+streamlit
+watchdog

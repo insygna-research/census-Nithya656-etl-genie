@@ -1,0 +1,16 @@
+order_id,customer_name,product,quantity,unit_price,order_date,region,status
+1001,Raj Kumar,Laptop,2,55000,2024-01-15,South,completed
+1002,Priya Sharma,Mouse,1,850,2024-01-16,North,completed
+1003,,Keyboard,3,1200,2024-01-17,East,pending
+1004,Amit Singh,Laptop,1,55000,2024-01-18,South,completed
+1005,Neha Patel,Monitor,2,12000,2024-01-19,,completed
+1006,Raj Kumar,Laptop,2,55000,2024-01-15,South,completed
+1007,Sunita Rao,Headphones,1,2500,2024-01-20,West,completed
+1008,Vikram Das,Mouse,5,850,2024-01-21,North,refunded
+1009,Meena Joshi,Keyboard,2,1200,2024-01-22,East,pending
+1010,Amit Singh,Monitor,1,12000,2024-01-23,South,completed
+1011,Pooja Nair,Laptop,1,55000,2024-01-24,West,completed
+1012,,Headphones,2,2500,2024-01-25,North,completed
+1013,Arjun Mehta,Mouse,3,850,2024-01-26,East,completed
+1014,Divya Krishnan,Keyboard,1,-1200,2024-01-27,South,completed
+1015,Raj Kumar,Laptop,2,55000,2024-01-15,South,completed
