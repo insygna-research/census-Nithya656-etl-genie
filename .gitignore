@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+data/_working.csv
+output/*.parquet
+output/*.txt
+quarantine/*.csv
+.env
+.DS_Store
+Thumbs.db
