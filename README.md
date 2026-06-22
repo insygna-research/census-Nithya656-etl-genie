@@ -216,4 +216,4 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-Built by Ria. Contributions and feedback welcome via issues or pull requests.
+Built by Nithya A. Contributions and feedback welcome via issues or pull requests.
